@@ -1,0 +1,2 @@
+C:\Users\jieho\Documents\programming\cpp_file\school_hw\lab6\lab602\Prime_Number\Debug\Prime_Number.exe
+C:\Users\jieho\Documents\programming\cpp_file\school_hw\lab6\lab602\Prime_Number\Debug\Prime_Number.pdb

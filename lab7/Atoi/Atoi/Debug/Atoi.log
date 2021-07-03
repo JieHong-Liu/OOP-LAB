@@ -1,0 +1,6 @@
+﻿  Atoi.cpp
+C:\Users\jieho\Documents\programming\cpp_file\school_hw\lab7\Atoi\Atoi\Atoi.cpp(34,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\jieho\Documents\programming\cpp_file\school_hw\lab7\Atoi\Atoi\Atoi.cpp(45,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\jieho\Documents\programming\cpp_file\school_hw\lab7\Atoi\Atoi\Atoi.cpp(83,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\jieho\Documents\programming\cpp_file\school_hw\lab7\Atoi\Atoi\Atoi.cpp(85,13): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  Atoi.vcxproj -> C:\Users\jieho\Documents\programming\cpp_file\school_hw\lab7\Atoi\Atoi\Debug\Atoi.exe

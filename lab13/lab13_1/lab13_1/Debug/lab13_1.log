@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\jieho\Documents\programming\cpp_file\OOP_practice\lab13\lab13_1\Template.h(64): warning C4715: 'RecBinarySearch<int>': 不是所有控制路徑都傳回值
+C:\Users\jieho\Documents\programming\cpp_file\OOP_practice\lab13\lab13_1\Template.h(64): warning C4715: 'RecBinarySearch<double>': 不是所有控制路徑都傳回值
+C:\Users\jieho\Documents\programming\cpp_file\OOP_practice\lab13\lab13_1\Template.h(64): warning C4715: 'RecBinarySearch<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >': 不是所有控制路徑都傳回值
+  lab13_1.vcxproj -> C:\Users\jieho\Documents\programming\cpp_file\OOP_practice\lab13\lab13_1\lab13_1\Debug\lab13_1.exe

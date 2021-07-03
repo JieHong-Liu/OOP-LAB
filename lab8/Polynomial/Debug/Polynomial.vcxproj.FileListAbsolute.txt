@@ -1,0 +1,2 @@
+C:\Users\jieho\Documents\programming\cpp_file\school_hw\lab8\Polynomial\Debug\Polynomial.exe
+C:\Users\jieho\Documents\programming\cpp_file\school_hw\lab8\Polynomial\Debug\Polynomial.pdb

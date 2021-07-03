@@ -1,0 +1,2 @@
+C:\Users\jieho\Documents\programming\cpp_file\school_hw\lab4\lab401\lab401\Debug\lab401.exe
+C:\Users\jieho\Documents\programming\cpp_file\school_hw\lab4\lab401\lab401\Debug\lab401.pdb

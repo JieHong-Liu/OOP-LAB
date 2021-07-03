@@ -1,0 +1,2 @@
+C:\Users\jieho\Documents\programming\cpp_file\school_hw\lab6\lab601\Complex\Debug\Complex.exe
+C:\Users\jieho\Documents\programming\cpp_file\school_hw\lab6\lab601\Complex\Debug\Complex.pdb
